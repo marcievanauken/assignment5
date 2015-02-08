@@ -20,31 +20,10 @@
 
 
 
-
-/* here's a function */
-// function doorPrize(doorNumber){
-// 	if(doorNumber == 1){
-// 		console.log("you won big");
-
-// 	}else if(doorNumber == 2){
-// 		console.log("you won nothing");
-
-// 	}else{
-// 		console.log("stop that");
-// 	}
-// }
-
-// var door = window.prompt("choose a door")
-
-// doorPrize(door);
-
-
-
-
 /* Variables */
-var taco = 4;
-var burrito = 6;
-console.log(taco+burrito)
+// var taco = 4;
+// var burrito = 6;
+// console.log(taco+burrito)
 
 
 
@@ -56,7 +35,7 @@ console.log(taco+burrito)
 
 
 
-/* here's a function */
+/* Alert */
 // alert(4+6)
 
 
@@ -84,5 +63,50 @@ console.log(taco+burrito)
 // console.log("nope")
 // }
 
+
+
+/* Logic */
+// if(5>10){
+// 	console.log("5 is not greater than 10");
+// }
+// if(5<10){
+// 	console.log("yes 5 is less than 10")
+// }
+
+
+
+/* 3 functions that take input and return via alert or console */
+
+// function doorPrize(doorNumber){
+// 	if(doorNumber == 1){
+// 		console.log("you won big");
+
+// 	}else if(doorNumber == 2){
+// 		console.log("you won nothing");
+
+// 	}else{
+// 		console.log("stop that");
+// 	}
+// }
+
+// var door = window.prompt("choose a door")
+
+// doorPrize(door);
+
+
+// function cats(howManyCats){
+// 	if(howManyCats == 3){
+// 		console.log("sufficient amount of cats");
+	
+// 	}else if (howManyCats == 4){
+// 		console.log("getting to be too many cats");
+	
+// 	}else{
+// 		console.log("not enough or way too many cats");
+// 	}
+// }
+// var cat = window.prompt("how many cats are there")
+
+// cats(cat); /*Despite this second function being the same as the first, it took me some time to get it right */
 
 
