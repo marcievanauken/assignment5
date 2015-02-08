@@ -20,14 +20,14 @@
 
 
 
-/* Variables */
+/* Variable */
 // var taco = 4;
 // var burrito = 6;
 // console.log(taco+burrito)
 
 
 
-/* Variables */
+/* Variable */
 // var taco = "cat";
 // var burrito = "6";
 // console.log(taco+burrito)
@@ -75,6 +75,21 @@
 
 
 
+/* Loop */
+// for(var i = 0; i<10; i++){
+// console.log(i)
+// }
+
+
+
+/* Loop */
+// beers = ["Lagunitas", "Peak"]
+// for(var i = 0; i< beers.length; i++){
+// console.log(beers[i])
+// }
+
+
+
 /* 3 functions that take input and return via alert or console */
 
 // function doorPrize(doorNumber){
@@ -94,6 +109,7 @@
 // doorPrize(door);
 
 
+
 // function cats(howManyCats){
 // 	if(howManyCats == 3){
 // 		console.log("sufficient amount of cats");
@@ -107,6 +123,10 @@
 // }
 // var cat = window.prompt("how many cats are there")
 
-// cats(cat); /*Despite this second function being the same as the first, it took me some time to get it right */
+// cats(cat);
+/*Despite this second function being the same as the first, it took me some time to get it right */
+
+
+
 
 
